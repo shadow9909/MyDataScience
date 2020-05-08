@@ -17,7 +17,8 @@ here you'll find notebooks of all my data science projects
 
         Results of the analysis
 
-        Results and discussion were published on Medium: Dive Into Titanic dataset
+        Results and discussion were published on my blog: Dive Into Titanic dataset
+        https://deeplearning.art.blog/2020/05/08/quick-dive-into-titanic-dataset/
 
         In this project, I dived into the interesting dataset and found many interesting results:
 
