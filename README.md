@@ -28,3 +28,6 @@ here you'll find notebooks of all my data science projects
         
         iii) There is a notable outcomings which showed bias towards people who died i.e factors like in which class they were travelling 
              also came out to be important.
+
+
+2. Breast Cancer Analysis
